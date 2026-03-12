@@ -10,11 +10,11 @@
   },
   "dependencies": {
     "date-fns": "^4.1.0",
-    "next": "16.1.6",
+    "next": "^16.1.6",
     "pg": "^8.19.0",
-    "react": "19.2.3",
+    "react": "^19.2.3",
     "react-date-range": "^2.0.1",
-    "react-dom": "19.2.3"
+    "react-dom": "^19.2.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
@@ -27,5 +27,22 @@
     "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
     "typescript": "^5"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/di-na05/Portal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/di-na05/Portal/issues"
+  },
+  "homepage": "https://github.com/di-na05/Portal#readme"
 }
